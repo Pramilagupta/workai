@@ -45,11 +45,6 @@ function HeroSection() {
               Get Started
             </Button>
           </Link>
-          <Link href="http://www.google.com">
-            <Button size="lg" className="px-8" variant="outline">
-              Get Started
-            </Button>
-          </Link>
         </div>
         <div className="hero-image-wrapper mt-5 md:mt-0">
           <div ref={imageRef} className="hero-image">
